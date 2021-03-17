@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "229114672221",
+    "project_id": "mycarexpense-5499c",
+    "storage_bucket": "mycarexpense-5499c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229114672221:android:7c0bf2d4f26d51b60849b4",
+        "android_client_info": {
+          "package_name": "com.rudrasoft.my_car_expense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229114672221-6rmbt9o8en3lhlr4gk73s20650bngjrm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rudrasoft.my_car_expense",
+            "certificate_hash": "09b4437302428d3a96b18b3441ce625f24e366cb"
+          }
+        },
+        {
+          "client_id": "229114672221-p5bj6le7d2960fjf72u1aidjepssd5ds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBCFjzc_NUKonoHRVUIkWU15iNthns5lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229114672221-p5bj6le7d2960fjf72u1aidjepssd5ds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
